@@ -76,7 +76,7 @@ disqus_shortname:
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
-theme: jekyll-theme-slate
+theme: jekyll-theme-leap-day
 plugins:
 - hexo-generator-feed
 - hexo-generator-sitemap
